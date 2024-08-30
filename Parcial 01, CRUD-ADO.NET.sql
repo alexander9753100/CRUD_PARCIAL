@@ -17,6 +17,8 @@ values
 ('Gaseosa','3 litros','marcacola',7.5,24),
 ('Chocolate','Tableta 100 gramos','iberica',12.5,36)
 
+select * from Productos
+go 
 ---PROCEDIMIENTOS ALMACENADOS 
 --------------------------MOSTRAR 
 create proc MostrarProductos
@@ -25,7 +27,7 @@ select *from Productos
 go
 
 --------------------------INSERTAR 
-create proc InsetarProductos
+create proc InsertarProductos
 @nombre nvarchar (100),
 @descrip nvarchar (100),
 @marca nvarchar (100),
@@ -53,3 +55,17 @@ create proc EditarProductos
 as
 update Productos set Nombre=@nombre, Descripcion=@descrip, Marca=@marca, Precio=@precio, Stock=@stock where Id=@id
 go
+
+select * from Productos
+go 
+
+CREATE PROCEDURE BuscarProducto
+    @nombre NVARCHAR(50)
+AS
+BEGIN
+    -- Selecciona los productos cuyo nombre coincida parcialmente con el valor del parámetro @nombre.
+    -- Utiliza LIKE para buscar coincidencias que contengan el nombre proporcionado.
+    SELECT * 
+    FROM Productos
+    WHERE Nombre LIKE '%' + @nombre + '%';
+END
