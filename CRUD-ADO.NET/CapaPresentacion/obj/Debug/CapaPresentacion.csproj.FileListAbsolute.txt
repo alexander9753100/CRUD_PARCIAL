@@ -39,3 +39,18 @@ C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Parcial01-CRUD_ADO.NET\CRUD-ADO.NET\CapaPres
 C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Parcial01-CRUD_ADO.NET\CRUD-ADO.NET\CapaPresentacion\bin\Debug\CapaNegocio.pdb
 C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Parcial01-CRUD_ADO.NET\CRUD-ADO.NET\CapaPresentacion\bin\Debug\CapaDatos.pdb
 C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Parcial01-CRUD_ADO.NET\CRUD-ADO.NET\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

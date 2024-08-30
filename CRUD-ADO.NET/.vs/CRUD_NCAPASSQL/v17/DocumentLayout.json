@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\people 1\\desktop\\parcial_crud\\crud-ado.net\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{360AA80E-D3D9-482C-B50D-B106676E4AE7}|CapaDatos\\CapaDatos.csproj|C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\capadatos\\cd_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{360AA80E-D3D9-482C-B50D-B106676E4AE7}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{360AA80E-D3D9-482C-B50D-B106676E4AE7}|CapaDatos\\CapaDatos.csproj|C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\capadatos\\cd_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{360AA80E-D3D9-482C-B50D-B106676E4AE7}|CapaDatos\\CapaDatos.csproj|c:\\users\\people 1\\desktop\\parcial_crud\\crud-ado.net\\capadatos\\cd_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{360AA80E-D3D9-482C-B50D-B106676E4AE7}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90671F18-3B92-49C7-81F0-21FFD477406D}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\capanegocio\\cn_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90671F18-3B92-49C7-81F0-21FFD477406D}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360AA80E-D3D9-482C-B50D-B106676E4AE7}|CapaDatos\\CapaDatos.csproj|C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\capadatos\\cd_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360AA80E-D3D9-482C-B50D-B106676E4AE7}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,6 +66,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-30T14:13:13.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\CapaPresentacion\\Program.cs",
@@ -70,31 +87,33 @@
               "RelativeToolTip": "CapaPresentacion\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T13:48:52.211Z"
+              "WhenOpened": "2024-08-30T13:48:52.211Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\CapaPresentacion\\Form1.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
-              "ToolTip": "C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\CapaPresentacion\\Form1.cs",
-              "RelativeToolTip": "CapaPresentacion\\Form1.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwC4AAAAnAAAA",
+              "ToolTip": "C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\CapaPresentacion\\Form1.cs*",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs*",
+              "ViewState": "AQIAABsAAAAAAAAAAAAtwCkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T13:48:52.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\CapaPresentacion\\Form1.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\GUIAS_PROGRA_2\\Parcial01-CRUD_ADO.NET\\CRUD-ADO.NET\\CapaPresentacion\\Form1.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "..\\..\\..\\..\\HP\\OneDrive\\GUIAS_PROGRA_2\\Parcial01-CRUD_ADO.NET\\CRUD-ADO.NET\\CapaPresentacion\\Form1.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-30T13:48:52.572Z"
+              "ToolTip": "C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\CapaPresentacion\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:48:52.572Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -104,9 +123,10 @@
               "RelativeDocumentMoniker": "CapaNegocio\\CN_Productos.cs",
               "ToolTip": "C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\CapaNegocio\\CN_Productos.cs",
               "RelativeToolTip": "CapaNegocio\\CN_Productos.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAApAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T13:48:52.574Z"
+              "WhenOpened": "2024-08-30T13:48:52.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -116,21 +136,23 @@
               "RelativeDocumentMoniker": "CapaDatos\\CD_Productos.cs",
               "ToolTip": "C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\CapaDatos\\CD_Productos.cs",
               "RelativeToolTip": "CapaDatos\\CD_Productos.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAIwBMAAAAAAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAD4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T13:48:52.574Z"
+              "WhenOpened": "2024-08-30T13:48:52.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CD_Conexion.cs",
               "DocumentMoniker": "C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\CapaDatos\\CD_Conexion.cs",
               "RelativeDocumentMoniker": "CapaDatos\\CD_Conexion.cs",
               "ToolTip": "C:\\Users\\People 1\\Desktop\\Parcial_crud\\CRUD-ADO.NET\\CapaDatos\\CD_Conexion.cs",
               "RelativeToolTip": "CapaDatos\\CD_Conexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T13:48:52.574Z"
+              "WhenOpened": "2024-08-30T13:48:52.574Z",
+              "EditorCaption": ""
             }
           ]
         }

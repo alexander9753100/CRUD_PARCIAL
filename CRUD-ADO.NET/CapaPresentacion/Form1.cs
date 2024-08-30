@@ -133,6 +133,11 @@ namespace CapaPresentacion
             string nombreProducto = txtBuscar.Text;  // Obtiene el texto de búsqueda.
             dataGridView1.DataSource = objetoCN.BuscarProducto(nombreProducto);  // Filtra y actualiza el DataGridView.
         }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

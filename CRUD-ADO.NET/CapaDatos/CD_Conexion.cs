@@ -11,7 +11,7 @@ namespace CapaDatos
     public class CD_Conexion
     {
         // Definición de la conexión a la base de datos con la cadena de conexión correspondiente.
-        private SqlConnection Conexion = new SqlConnection("Data Source=LAPTOP-2JMS5E5I\\SQLEXPRESS;Initial Catalog=Registro;Integrated Security=True;");
+        private SqlConnection Conexion = new SqlConnection("Data Source=(localdb)\\alex;Initial Catalog=Practica;Integrated Security=True;");
 
         // Método para abrir la conexión a la base de datos.
         public SqlConnection AbrirConexion()

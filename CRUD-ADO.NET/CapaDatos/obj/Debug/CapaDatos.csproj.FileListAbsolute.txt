@@ -14,3 +14,9 @@ C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Parcial01-CRUD_ADO.NET\CRUD-ADO.NET\CapaDato
 C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Parcial01-CRUD_ADO.NET\CRUD-ADO.NET\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Parcial01-CRUD_ADO.NET\CRUD-ADO.NET\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Parcial01-CRUD_ADO.NET\CRUD-ADO.NET\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\People 1\Desktop\Parcial_crud\CRUD-ADO.NET\CapaDatos\obj\Debug\CapaDatos.pdb
